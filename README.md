@@ -23,22 +23,21 @@
 The first section focuses on community detection using the Louvain algorithm and visualizing the results. It includes importing required libraries and loading different network datasets. The code uses the Louvain algorithm to compute the communities within the network and visualizes the network with colored nodes representing communities.
 
 ### The American College football network dataset
-![American College football network dataset](american_football_network.png)
 
 ### The Zachary's karate dataset
-![Zachary's karate dataset](zachary_karate_network.png)
+
 
 ### The Bottlenose Dolphins network dataset
-![Bottlenose Dolphins network dataset](bottlenose_dolphins_network.png)
+
 
 ### The Books about US politics networks dataset
-![Books about US politics networks dataset](us_politics_network.png)
+
 
 ### The US power grid network
-![US power grid network](us_power_grid_network.png)
+
 
 ### The Email, the university network
-![The Email, the university network](university_network.png)
+
 
 ## Section 2: Community Detection using Louvain Algorithm and Evaluation Metrics
 The second section focuses on community detection using the Louvain algorithm and includes the evaluation of the detected communities. It prints the number of communities detected and lists the nodes belonging to each community.
